@@ -1,2 +1,2 @@
 # Low-light-Image-Enhancemet
-Improving the Zero-DCE model by using DCP of image
+Implementing the Zero-Refernce Deep Curve Estimation model for low light and improving it further by using Dark Channel Prior(DCP) of image.
